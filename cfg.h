@@ -4,6 +4,7 @@
 #define DEFAULT_TAP_MILLIS 200
 #define DEFAULT_DOUBLE_TAP_MILLIS 150
 #define DEFAULT_SYNTHETIC_KEYS_PAUSE_MILLIS 20
+#define VERSION "FBSD-0.1"
 
 #ifdef __cplusplus
 extern "C" { //}
